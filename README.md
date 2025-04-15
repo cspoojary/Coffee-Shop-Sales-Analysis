@@ -26,9 +26,21 @@ It was an coffee chain with three locations in new York city.
      A. Display the **Number of Transactions** by **Day of the Week** and by **Hour of the Day**, sorted in descending order by transactions.<br>
      B. To show the **Number of Transactions** by **Product Category**, also sorted in descending order.<br>
      C. To present both the **Number of Transactions** and **Revenue** by **Product Type**, sorted in descending order and filtered to display the Top 15.
+
+- Dashboard Interaction <a href = "https://github.com/cspoojary/Coffee-Shop-Sales-Analysis/blob/main/Coffee%20Shop%20Sales.xlsx">View Dashboard</a>
+
    
 3. Build a dynamic dashboard to visualize patterns and trends.
    - Adding Pivot Charts to show revenue by month as a **Line charts**, transaction by day of week and hour of the day as **Column charts**, and transactions by product category as a **Bar charts**.
    - Assembling the charts into rough dashboard layout, and include space for the Pivot table showing Top 15 product types.
    - Adding slicer to store location, and connect it to all of the Pivot tables on the sheet.
-   - Adjust formatting alignment and polish to finalize the dashboard.
+   - Adjust formatting alignment and polish to finalize the dashboar.
+
+## Dashboard
+![Coffes Shop sales](https://github.com/user-attachments/assets/61a7a14b-ab34-4799-88b7-f283c67230ab)
+
+  
+
+
+
+
