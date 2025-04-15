@@ -10,8 +10,8 @@ I developed a comprehensive project in Excel creating multiple dashboard and tab
 It was an coffee chain with three locations in new York city.
 
 ### The Assignment
->To better understand purchase behaviour and streamline operations, I've collected transactional data from jan-jun 2023.
->Now my goal is to transform the data into a dynamic dashboard that coffee shop owners can use to identify patterns, trends and opportunities for the business.
+- To better understand purchase behaviour and streamline operations, I've collected transactional data from jan-jun 2023.
+- Now my goal is to transform the data into a dynamic dashboard that coffee shop owners can use to identify patterns, trends and opportunities for the business.
 
 ### The Objectives
 1. Profile and prepare the raw data for analysis.
