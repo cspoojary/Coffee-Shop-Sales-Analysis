@@ -6,14 +6,14 @@ I developed a comprehensive project in Excel creating multiple dashboard and tab
 ### Dataset used
 - <a href = "https://github.com/cspoojary/Coffee-Shop-Sales-Analysis/blob/main/Coffee%20Shop%20Sales.xlsx">Dataset</a>
 
-### The Situation
+## The Situation
 It was an coffee chain with three locations in new York city.
 
-### The Assignment
+## The Assignment
 - To better understand purchase behaviour and streamline operations, I've collected transactional data from jan-jun 2023.
 - Now my goal is to transform the data into a dynamic dashboard that coffee shop owners can use to identify patterns, trends and opportunities for the business.
 
-### The Objectives
+## The Objectives
 1. Profile and prepare the raw data for analysis.
    - Familiarize the data.
    - Adding new column to calculate **Revenue = (Price*quantity)**
