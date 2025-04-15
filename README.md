@@ -17,8 +17,9 @@ It was an coffee chain with three locations in new York city.
 1. Profile and prepare the raw data for analysis.
    - Familiarize the data.
    - Adding new column to calculate **Revenue = (Price*quantity)**
-   - Adding new column to calculate Month and Day Of Week based on transaction date.(displaying as text)
-   - Adding new column to extract Hour from the transaction time.
+   - Adding new column to calculate **Month** and **Day Of Week** based on transaction date.(displaying as text)
+   - Adding new column to extract **Hour** from the transaction time.
 2. Explore the data with Excel Pivot Tables.
+   
    
 4. Build a dynamic dashboard to visualize patterns and trends.
