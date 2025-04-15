@@ -16,7 +16,7 @@ It was an coffee chain with three locations in new York city.
 ### The Objectives
 1. Profile and prepare the raw data for analysis.
    - Familiarize the data.
-   - Adding new column to calculate <h3>Revenue = (Price*quantity)</h3>
+   - Adding new column to calculate <h4>Revenue = (Price*quantity)</h4>
    - Adding new column to calculate Month and Day Of Week based on transaction date.(displaying as text)
    - Adding new column to extract Hour from the transaction time.
 2. Explore the data with Excel Pivot Tables.
