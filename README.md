@@ -22,9 +22,9 @@ It was an coffee chain with three locations in new York city.
 2. Explore the data with Excel Pivot Tables.
    - Inserting a Pivot Table on a new tab to show revenue by month.
    - Add three additional PivotTables:
-    - A.display the **Number of Transactions** by **Day of the Week** and by **Hour of the Day**, sorted in descending order by transactions.
-    - B.To show the **Number of Transactions** by **Product Category**, also sorted in descending order.
-     - C.To present both the **Number of Transactions** and **Revenue** by **Product Type**, sorted in descending order and filtered to display the Top 15.
+     A. Display the **Number of Transactions** by **Day of the Week** and by **Hour of the Day**, sorted in descending order by transactions.
+     B. To show the **Number of Transactions** by **Product Category**, also sorted in descending order.
+     C. To present both the **Number of Transactions** and **Revenue** by **Product Type**, sorted in descending order and filtered to display the Top 15.
    
    
 4. Build a dynamic dashboard to visualize patterns and trends.
