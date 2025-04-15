@@ -48,7 +48,7 @@ It was an coffee chain with three locations in new York city.
 - Market Opportunity: Other shops stay open after 6 PM, but customer demand for this shop drops sharply—signaling a need to re-evaluate business hours.
 - Potential Strategy Shift: Adjusting operating hours and pricing strategy by time slot could increase margins and reduce losses.
 
-## Comclusion
+## Conclusion
 To maximize profitability and operational efficiency, the business should consider adjusting its hours to focus on the morning rush, particularly from 7 AM to 11 AM, and possibly close before or at 6 PM. Additionally, since tea and coffee are the primary revenue drivers, reinforcing this product category—through promotions, combos, or loyalty programs—could further boost revenue.</br>
 
 Changing the margin strategy or staff allocation based on peak and off-peak hours may also help reduce costs and optimize performance. In short, aligning the business operations with customer behavior—morning-focused, beverage-driven, and Monday-intensive—could significantly improve outcomes.
