@@ -40,13 +40,13 @@ It was an coffee chain with three locations in new York city.
 ![Coffes Shop sales](https://github.com/user-attachments/assets/61a7a14b-ab34-4799-88b7-f283c67230ab)
 
 ## Project Insights
-🔹 High Sales Spike: Significant sales activity observed between 7 AM to 10 AM, especially on weekdays.
-🔹 Peak Day: Monday sees the highest sales volume compared to other days.
-🔹 Evening Drop: Very low sales during 7 PM to 8 PM, indicating minimal customer engagement at that time.
-🔹 Top Products: Tea and coffee are the most sold products, especially during morning hours.
-🔹 Operational Mismatch: Shop remains open past 6 PM despite poor evening performance, potentially leading to unnecessary operational costs.
-🔹 Market Opportunity: Other shops stay open after 6 PM, but customer demand for this shop drops sharply—signaling a need to re-evaluate business hours.
-🔹 Potential Strategy Shift: Adjusting operating hours and pricing strategy by time slot could increase margins and reduce losses.
+- 🔹 High Sales Spike: Significant sales activity observed between 7 AM to 10 AM, especially on weekdays.
+- 🔹 Peak Day: Monday sees the highest sales volume compared to other days.
+- 🔹 Evening Drop: Very low sales during 7 PM to 8 PM, indicating minimal customer engagement at that time.
+- 🔹 Top Products: Tea and coffee are the most sold products, especially during morning hours.
+- 🔹 Operational Mismatch: Shop remains open past 6 PM despite poor evening performance, potentially leading to unnecessary operational costs.
+- 🔹 Market Opportunity: Other shops stay open after 6 PM, but customer demand for this shop drops sharply—signaling a need to re-evaluate business hours.
+- 🔹 Potential Strategy Shift: Adjusting operating hours and pricing strategy by time slot could increase margins and reduce losses.
 
 
 
