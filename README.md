@@ -9,11 +9,11 @@ I developed a comprehensive project in Excel creating multiple dashboard and tab
 ### The Situation
 It was an coffee chain with three locations in new York city.
 
-# The Assignment
+### The Assignment
 >To better understand purchase behaviour and streamline operations, I've collected transactional data from jan-jun 2023.
 >Now my goal is to transform the data into a dynamic dashboard that coffee shop owners can use to identify patterns, trends and opportunities for the business.
 
-# The Objectives
+### The Objectives
 1. Profile and prepare the raw data for analysis.
 2. Explore the data with Excel Pivot Tables
 3. Build a dynamic dashboard to visualize patterns and trends.
