@@ -19,6 +19,7 @@ It was an coffee chain with three locations in new York city.
    - Adding new column to calculate **Revenue = (Price*quantity)**
    - Adding new column to calculate **Month** and **Day Of Week** based on transaction date.(displaying as text)
    - Adding new column to extract **Hour** from the transaction time.
+     
 2. Explore the data with Excel Pivot Tables.
    - Inserting a Pivot Table on a new tab to show revenue by month.
    - Add three additional PivotTables:<br>
@@ -26,5 +27,8 @@ It was an coffee chain with three locations in new York city.
      B. To show the **Number of Transactions** by **Product Category**, also sorted in descending order.<br>
      C. To present both the **Number of Transactions** and **Revenue** by **Product Type**, sorted in descending order and filtered to display the Top 15.
    
-   
-4. Build a dynamic dashboard to visualize patterns and trends.
+3. Build a dynamic dashboard to visualize patterns and trends.
+   - Adding Pivot Charts to show revenue by month as a **Line charts**, transaction by day of week and hour of the day as **Column charts**, and transactions by product category as a **Bar charts**.
+- Assembling the charts into rough dashboard layout, and include space for the Pivot table showing Top 15 product types.
+- Adding slicer to store location, and connect it to all of the Pivot tables on the sheet.
+- Adjust formatting alignment and polish to finalize the dashboard.
