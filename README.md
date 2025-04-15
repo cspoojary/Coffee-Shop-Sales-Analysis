@@ -51,7 +51,7 @@ It was an coffee chain with three locations in new York city.
 ## Conclusion
 To maximize profitability and operational efficiency, the business should consider adjusting its hours to focus on the morning rush, particularly from 7 AM to 11 AM, and possibly close before or at 6 PM. Additionally, since tea and coffee are the primary revenue drivers, reinforcing this product category—through promotions, combos, or loyalty programs—could further boost revenue.</br>
 
-Changing the margin strategy or staff allocation based on peak and off-peak hours may also help reduce costs and optimize performance. In short, aligning the business operations with customer behavior—morning-focused, beverage-driven, and Monday-intensive—could significantly improve outcomes.
+Changing the margin strategy or staff allocation based on peak and off-peak hours may also help reduce costs and optimize performance. In short, aligning the business operations with customer behavior morning-focused, beverage-driven, and Monday-intensive could significantly improve outcomes.
 
 
 
